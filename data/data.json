@@ -1,0 +1,25 @@
+[
+    {
+        "title" : "DevOps Engineer",
+        "description" : "Should be familiar with Jenkins Pipeline",
+        "company" : "Company XYZ",
+        "salary" : "$7,000"
+    },
+    {
+        "title" : "Front-end Developer",
+        "description" : "Should be familiar with Apple UI",
+        "company" : "Company YYY",
+        "salary" : "$8,000"
+    },{
+        "title" : "Backend Developer",
+        "description" : "Should be familiar with Google API",
+        "company" : "Company XXX",
+        "salary" : "$9,000"
+    },
+    {
+        "title" : "JAV Actor",
+        "description" : "Should be familiar with some sensitive scenes",
+        "company" : "Company JAV",
+        "salary" : "$999,999,000"
+    }
+]
